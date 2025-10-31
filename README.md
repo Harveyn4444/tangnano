@@ -14,8 +14,8 @@ https://www.fpga4fun.com/
 
 Every FPGA project needs at least two files:
 
-    A file that describes your circuit (in our case a verilog `.v` file)
-    A file that describes the connection between your circuit and your physical board. (in our case a physical constraints `.cst` file)
+A file that describes your circuit (in our case a verilog `.v` file)
+A file that describes the connection between your circuit and your physical board. (in our case a physical constraints `.cst` file)
 
 
 
